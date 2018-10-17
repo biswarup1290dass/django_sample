@@ -3,6 +3,7 @@
 import os
 import sys
 #COMMENT FROM GIT 1 USER
+#SAMPLE COMMENT BY USER2
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "sample_project.settings")
     try:
