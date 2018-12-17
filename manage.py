@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#COMMENT FROM GIT 2 USER
 import os
 import sys
 #COMMENT FROM GIT 1 USER
